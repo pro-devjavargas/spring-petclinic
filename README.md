@@ -1,3 +1,14 @@
+# 🚀 Solución de Prueba Técnica: Spring PetClinic REST API
+
+Esta versión del proyecto ha sido desarrollada y adaptada como parte de una prueba técnica, modernizando la aplicación monolítica tradicional hacia una arquitectura de **API REST desacoplada**, con validaciones robustas y documentación interactiva.
+
+## 🛠️ Lo que se implementó en esta versión:
+* **Controladores REST y DTOs:** Endpoints desacoplados para la gestión de Propietarios (`Owners`), Mascotas (`Pets`) y Visitas (`Visits`).
+* **Documentación Interactiva:** Integración completa con **OpenAPI / Swagger UI** para la exploración de la API.
+* **Pruebas Unitarias y de Controladores:** Cobertura de pruebas con JUnit 5, Mockito y MockMvc para asegurar la calidad del código de producción.
+
+---
+
 # Spring PetClinic Sample Application [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)[![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/spring-projects/spring-petclinic) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=7517918)
